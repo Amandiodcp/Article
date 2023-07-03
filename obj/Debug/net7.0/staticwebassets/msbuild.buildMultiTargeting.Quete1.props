@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Quete1.props" />
+</Project>
